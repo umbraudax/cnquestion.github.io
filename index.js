@@ -1,3 +1,3 @@
-var testDiv = document.getElementById("testdiv");
-
-testDiv.innerText = "H";
+$(document).ready(() => {
+    $("#testdiv").text("He");
+});
