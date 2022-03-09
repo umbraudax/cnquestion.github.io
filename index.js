@@ -1,3 +1,3 @@
 $(document).ready(() => {
-    $("#testdiv").text("He");
+    $("p").text("He");
 });
